@@ -31,11 +31,5 @@ Solo Python básico, no necesita librerías externas.
 - Operaciones simples: suma, promedio, máximo
 - Aplicaciones básicas en ingeniería
 
-## Orden recomendado
-
-Empezar con ejercicio1, luego ejercicio4, después ejercicio2, y así sucesivamente.
-
-Los ejercicios son para el tema de arreglos multidimensionales del curso.
-
-##Grupo 5
+## Grupo 5
 Alejandro Barrionuevo, Alexander Pavón, Alison Carrion, Ricardo Carrion
